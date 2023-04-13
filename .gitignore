@@ -1,0 +1,11 @@
+# VSCode related files.
+.vscode/
+
+# DaCe files.
+.dacecache/
+
+# Project files.
+results/
+
+# Add the VSCode workspace
+!.vscode/fuzzyflow-artifact.code-workspace
