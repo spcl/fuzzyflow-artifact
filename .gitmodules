@@ -1,6 +1,6 @@
 [submodule "dace"]
 	path = dace
-	url = git@github.com:spcl/dace.git
+	url = https://github.com/spcl/dace.git
 [submodule "fuzzyflow"]
 	path = fuzzyflow
-	url = git@github.com:phschaad/fuzzyflow.git
+	url = https://github.com/phschaad/fuzzyflow.git
